@@ -15,32 +15,10 @@
 
 ## 🚀 About Me
 
-```python
-class PoojaSuccdeve:
-    def __init__(self):
-        self.name = "Pooja Sukhdeve"
-        self.role = "Data Scientist & Full-Stack Developer"
-        self.location = "Boston, MA"
-        self.education = "MS Computer Science @ Boston University"
-        self.experience = "5+ years"
-        
-    def current_work(self):
-        return [
-            "🔬 Research Assistant @ Boston University",
-            "💻 Developing accessibility tools for visually impaired users",
-            "🏆 1st Place Winner - BU Hackathon 2024",
-            "📚 Contributing to inclusive Python learning materials"
-        ]
-    
-    def skills(self):
-        return {
-            "languages": ["Python", "R", "SQL", "JavaScript", "TypeScript"],
-            "ml_frameworks": ["Scikit-learn", "SHAP", "Pandas", "NumPy"],
-            "web_technologies": ["React", "Node.js", "Angular", "HTML5", "CSS"],
-            "data_visualization": ["Tableau", "PowerBI", "Matplotlib", "Seaborn"],
-            "cloud_tools": ["AWS", "Apache Spark", "Git"]
-        }
-```
+- 🔬 **Data Scientist & AI Researcher** with 5+ years of experience  
+- 🎓 **MS Computer Science Student** at Boston University  
+- 🏆 **Award-winning developer** - 1st Place BU Hackathon 2024  
+- ♿ **Accessibility advocate** - Building inclusive tech for visually impaired users
 
 ---
 
