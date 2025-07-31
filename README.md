@@ -112,12 +112,13 @@ graph TD
     D --> E[Research Assistant<br/>Boston University<br/>🇺🇸 2024-Present]
     D --> F[Office Assistant<br/>IS&T, BU<br/>🇺🇸 2024-Present]
     
-    style A fill:#1a1a2e
-    style B fill:#16213e
-    style C fill:#0f3460
-    style D fill:#40e0d0,color:#000
-    style E fill:#40e0d0,color:#000
-    style F fill:#40e0d0,color:#000
+style A fill:#2E86AB,stroke:#A23B72,stroke-width:3px,color:#ffffff
+    style B fill:#F18F01,stroke:#C73E1D,stroke-width:3px,color:#ffffff
+    style C fill:#6A994E,stroke:#386641,stroke-width:3px,color:#ffffff
+    style D fill:#7209B7,stroke:#560BAD,stroke-width:3px,color:#ffffff
+    style E fill:#FF6B35,stroke:#F7931E,stroke-width:3px,color:#ffffff
+    style F fill:#4361EE,stroke:#3F37C9,stroke-width:3px,color:#ffffff
+
 ```
 
 ---
